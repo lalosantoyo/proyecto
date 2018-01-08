@@ -1,0 +1,23 @@
+<FlexboxLayout flexDirection="column" class="registration-form" alignItems="center">
+    
+    <Label [text]="error"></Label>
+    <img src="res://burrito" height="200px">
+    <label text="Nombre(s)"></label>
+    <TextField hint="Nombre(s)" secure="true" [(ngModel)]="nombre"></TextField>
+    <label text="Apelldo Paterno"></label>
+    <TextField hint="Apellido Paterno" secure="true" [(ngModel)]="apellidop"></TextField>
+    <label text="Apelldo Materno"></label>
+    <TextField hint="Apellido Materno" secure="true" [(ngModel)]="apellidom"></TextField>
+    <label text="Usuario"></label>
+    <TextField hint="Usuario" secure="true" [(ngModel)]="usuario"></TextField>
+    <Label text="contraseña"></Label>
+    <TextField hint="Contraseña" secure="true" [(ngModel)]="passwordConfirmation"></TextField>
+    <Label text="Telefono"></Label>
+    <TextField hint="Telefono" secure="true" [(ngModel)]="passwordConfirmation"></TextField>
+
+
+    <Button text="Registrar" (tap)="signUp()" class="btn-primary"></Button>
+
+    <Button text="Iniciar Sesion" class="btn-flat" (tap)="goToSignUp()"></Button>
+
+</FlexboxLayout>

@@ -1,0 +1,14 @@
+<FlexboxLayout flexDirection="column" class="registration-form" alignItems="center">
+    <img src="res://burrito" height="200px">
+    <br>
+<label text="Usuaro"></label>
+<TextField hint="Usuario" keyboardType="email" [(ngModel)]="usuario"></TextField>
+
+<Label text="Contraseña"></Label>
+<TextField hint="Confirma " secure="true" [(ngModel)]="password"> </TextField>
+
+<Button text="Entrar" class="btn-primary" (tap)="goTohome()"></Button>
+
+<Button text="Registro" class="btn-flat" (tap)="goToSignUp()"></Button>
+
+</FlexboxLayout>

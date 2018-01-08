@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\autocomplete_focusable_bg.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\fce4b758509ea7ee04702b1e7a55f9a3679a4945\\output\\res\\drawable-v21\\autocomplete_focusable_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\43735238e42cac10771b4c02f7c81a628c570846\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\43735238e42cac10771b4c02f7c81a628c570846\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\autocomplete_bg_active.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\fce4b758509ea7ee04702b1e7a55f9a3679a4945\\output\\res\\drawable-v21\\autocomplete_bg_active.xml"
+    },
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\43735238e42cac10771b4c02f7c81a628c570846\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\6c190f560fdeb88e97a6b9ba9378791dee61f99f\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\43735238e42cac10771b4c02f7c81a628c570846\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\pressable_item_background.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\3c58f683ae76360e8f65f965985695cca7542ef1\\output\\res\\drawable-v21\\pressable_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\6c190f560fdeb88e97a6b9ba9378791dee61f99f\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\6c190f560fdeb88e97a6b9ba9378791dee61f99f\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\autocomplete_bg_normal.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\fce4b758509ea7ee04702b1e7a55f9a3679a4945\\output\\res\\drawable-v21\\autocomplete_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Metarokusho\\Desktop\\CCEO\\PROYECTO\\Cascaron2\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Metarokusho\\.android\\build-cache\\6c190f560fdeb88e97a6b9ba9378791dee61f99f\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metarokusho\.android\build-cache\2aaa3ac6a9d24b849c0cdf039c530713f91f7706\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23e24cb11d199bb64e56968563bb6ea219204cec">
+        <dex dex="C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_a800634941444d6c1c390a453be029e078e7eaf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metarokusho\.android\build-cache\54c4f07ccf81e61e61d2b47aa26cffa3eb5b3499\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="31ecd0832f76d83defcff7f8b395008bf3b153bd">
+        <dex dex="C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_95d0db3a47313d515a493829541598858fb97f23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metarokusho\.android\build-cache\3c58f683ae76360e8f65f965985695cca7542ef1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cd3872a778741ba6ef9d5452e122a54d16b0564f">
+        <dex dex="C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_7f788174facf3f83b747b9a2ebcd0109cfbe5f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metarokusho\.android\build-cache\a758e491b2e12261b2a2d38738f25f37e8bcce5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67070b6d74d76c40032b857e9fcf25b196fd07f5">
+        <dex dex="C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_c130dc4ffccbf6369033ef28e6d94c12ba33e1a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metarokusho\.android\build-cache\a3e8411b2430d27f037abfa6d2030df7f26642c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_3d821cb1a790c89cfef5d17d09e77961d562fcf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metarokusho\.android\build-cache\fce4b758509ea7ee04702b1e7a55f9a3679a4945\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a973d2e002f236d63e4b0b3bb95454b2ed4dc790">
+        <dex dex="C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_f591ae957af4b565d31f962a4a6f72b9e72a7623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metarokusho\.android\build-cache\00d11fbaf9d96e5cb92107596adc04e969d2786d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="912812cca1fdace3ef9ba9c0a7081db4155767d5">
+        <dex dex="C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_68f91443ac3c8c96f510243684f1fb4931fd4051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metarokusho\.android\build-cache\457c1a75cf8ba0d0bb3dc9e5909cbb98e69e743a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bb5e99e8a8b94d66179ccbf5f2fbe41ba084fbe9">
+        <dex dex="C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_6dfb17c4240e2d4b06ab4ae137a467bbaee3273f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metarokusho\.android\build-cache\9b5fdd503f1ed71411a13299fb2003bbb6b45bd4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9001cb8dbd0c0f46e73929f0b0667c00c2835880">
+        <dex dex="C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_7dbb07dca9c6d0cd8488682a7ff288abefc06719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Metarokusho\.android\build-cache\925a8b5037852397158c0dce06bdefbb12ee4506\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\build\intermediates\pre-dexed\F0\debug\classes_04a179f8e61d3e9b856d760061704ce5a3d4a07c.jar" />
+    </item>
+
+</items>
