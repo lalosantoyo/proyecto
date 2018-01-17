@@ -31,7 +31,22 @@ it shouldn't have any other siblings other than the <ActionBar> component.
     Use the tkMainContent directive to display the content of the page when you have an app drawer.
     -->
     <GridLayout class="page page-content" tkMainContent>
-        <Label class="page-icon fa" text="&#xf1ea;"></Label>
-        <Label class="page-placeholder" text="<!-- Page content goes here -->"></Label>
+            <Image class="img" src="~/assets/vend.png"  stretch="none" class="img-rounded p-l-15 p-r-15 p-t-15"></Image>
+            
+
+        <!-- <Label class="page-icon fa" text="&#xf1ea;"></Label> -->
+        <StackLayout>
+            <ScrollView #scrollview height="90%">
+                    <!--the chat takes place here--> 
+            </ScrollView>
+            <StackLayout height="10%">
+                <GridLayout columns="*,auto" style="padding: 5">
+                    <TextField #textfield class="chatTextField" row="0" col="0" [(ngModel)]="message"></TextField>
+                    <Button #btn class="chatBtn" row="0" col="1" text="send"  (tap)=chat(message)></Button>
+                    <!-- metodo para el boton en el chat  (tap)=chat(message) -->
+                </GridLayout>
+            </StackLayout>
+        </StackLayout>
     </GridLayout>
+   
 </RadSideDrawer>

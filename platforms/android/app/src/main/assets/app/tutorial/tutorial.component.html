@@ -1,0 +1,20 @@
+<TabView>
+
+    <StackLayout class="fondo" *tabItem="{title: 'paso 1'}" >
+        <img src="res://burrito" height="400px">
+        <label class="t" text="Paso 1"></label>
+    </StackLayout>
+
+    <StackLayout class="fondo" *tabItem="{title: 'Paso 2'}">
+            <img src="res://burrito" height="400px">
+        <Label class="t" text="Segundo paso"></Label>
+    </StackLayout>
+
+    <StackLayout class="fondo" *tabItem="{title: 'paso 3'}">
+            <img src="res://burrito" height="400px">
+        <Label class="t" text="Terecer paso"></Label>
+        <Button text="Registro" class="btn-flat" (tap)="goToSignUp()"></Button>
+        <Button text="¡Terminar tutorial!" (tap)="goToSignUp()" class="btn-primary"></Button>
+    </StackLayout>
+
+</TabView>

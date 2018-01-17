@@ -9,7 +9,7 @@
     <ActionItem icon="res://navigation/menu" android:visibility="collapsed" (tap)="onDrawerButtonTap()"
         ios.position="left">
     </ActionItem>
-    <Label class="action-bar-title" text="Featured"></Label>
+    <Label class="action-bar-title" text="Perfil"></Label>
 </ActionBar>
 
 <!--
@@ -24,14 +24,35 @@ it shouldn't have any other siblings other than the <ActionBar> component.
     Use the tkDrawerContent directive to display the content of the app drawer on this page.
     -->
     <StackLayout tkDrawerContent>
-        <MyDrawer [selectedPage]="'Featured'"></MyDrawer>
+        <MyDrawer [selectedPage]="'Perfil'"></MyDrawer>
     </StackLayout>
-    
+
+
     <!--
     Use the tkMainContent directive to display the content of the page when you have an app drawer.
     -->
-    <GridLayout class="page page-content" tkMainContent>
-        <Label class="page-icon fa" text="&#xf005;"></Label>
-        <Label class="page-placeholder" text="<!-- Page content goes here -->"></Label>
-    </GridLayout>
+     <GridLayout class="page page-content" tkMainContent>
+        <!-- <Label class="page-icon fa" text="&#xf005;"></Label>
+        <Label class="page-placeholder" text="! Page content goes here"></Label> -->
+        <!-- <img src="res://burrito" height="200px"> -->
+        
+        <!-- <FlexboxLayout flexDirection="column" class="registration-form" alignItems="center">
+
+    </FlexboxLayout> -->
+      
+
+    <StackLayout class="fondo">
+            <img src="res://burrito" height="200px">
+            <label text="Nombre(s)"></label>
+            <TextField hint="Nombre(s)" secure="true" [(ngModel)]="nombre"></TextField>
+            <label text="Fecha de nacimiento"></label>
+            <TextField hint="Fecha de nacimiento" secure="true" [(ngModel)]="date"></TextField>
+            <label text="Usuarioo"></label>
+            <TextField hint="Usuario" secure="true" [(ngModel)]="usuario"></TextField>
+            <Button text="Entrar" class="btn-primary" (tap)="goToLog()"></Button>
+
+<Button text="Cambiar contraseña" class="btn-flat" (tap)="goToPass()"></Button>
+
+    </StackLayout>
+    </GridLayout>     
 </RadSideDrawer>

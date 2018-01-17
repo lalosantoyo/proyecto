@@ -20,9 +20,8 @@ export class LogComponent {
         this.router.navigate(['singup']);
     }
     goTohome(){
-        this.router.navigate(['home']);
+        this.router.navigate(['inicio']);
     }
-
 
 
     ngOnInit(): void {

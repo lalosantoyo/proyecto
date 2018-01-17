@@ -98,7 +98,7 @@ MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Metaroku
 	android:allowBackup
 		ADDED from C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
 	android:icon
-		ADDED from C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+		ADDED from C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\AndroidManifest.xml:24:3-35
 	android:theme
 		ADDED from C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
 	android:name

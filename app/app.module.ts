@@ -9,7 +9,11 @@ import{SingupComponent} from "./singup/singup.component";
 import{SplashComponent} from "./splash/splash.component";
 import {ZonaComponent} from "./zona/zona.component";
 import {ZonaiComponent} from "./zonai/zonai.component";
-import {SliderComponent} from "./slider/slider.component";
+import {TutorialComponent}from "./tutorial/tutorial.component"
+// import {PassComponent} from "./pass/pass.component";
+import {ComprasComponent} from "./compras/compras.component";
+import {LugarComponent} from "./lugar/lugar.component";
+// import {WizardComponent} from "./wizard/wizard.component";
 
 
 
@@ -29,7 +33,11 @@ import {SliderComponent} from "./slider/slider.component";
         SplashComponent,
         ZonaComponent,
         ZonaiComponent,
-        SliderComponent,
+        TutorialComponent,
+        // PassComponent,
+        ComprasComponent,
+        LugarComponent,
+        // WizardComponent,
 
     ],
     providers: [

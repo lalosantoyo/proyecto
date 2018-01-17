@@ -5,6 +5,7 @@ C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\m
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\browse\browse-routing.module.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\browse\browse.component.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\browse\browse.module.js
+C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\compras\compras.component.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\featured\featured-routing.module.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\featured\featured.component.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\featured\featured.module.js
@@ -16,6 +17,12 @@ C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\m
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\inicio\inicio.component.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\inicio\inicio.module.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\log\log.component.js
+C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\lugar\lugar.component.js
+C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\pantallas\pantallas.component.js
+C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\pass\pass-routing.module.js
+C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\pass\pass.component.js
+C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\pass\pass.module.js
+C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\perfil\perfil.component.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\search\search-routing.module.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\search\search.component.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\search\search.module.js
@@ -26,7 +33,7 @@ C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\m
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\shared\my-drawer\my-drawer.component.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\shared\my-drawer-item\my-drawer-item.component.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\singup\singup.component.js
-C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\Splashscreen\Splashscreen.component.js
+C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\splash\splash.component.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\common.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\dom-adapter.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\tns_modules\nativescript-angular\element-registry.js
@@ -253,3 +260,6 @@ C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\m
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\utils\utils.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xhr\xhr.js
 C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\tns_modules\tns-core-modules\xml\xml.js
+C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\tutorial\tutorial.component.js
+C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\zona\zona.component.js
+C:\Users\Metarokusho\Desktop\CCEO\PROYECTO\Cascaron2\platforms\android\app\src\main\assets\app\zonai\zonai.component.js

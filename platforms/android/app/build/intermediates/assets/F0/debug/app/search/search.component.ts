@@ -5,9 +5,11 @@ import { RadSideDrawerComponent } from "nativescript-pro-ui/sidedrawer/angular";
 @Component({
     selector: "Search",
     moduleId: module.id,
-    templateUrl: "./search.component.html"
+    templateUrl: "./search.component.html",
+    styleUrls: ['./search.component.css']
 })
 export class SearchComponent implements OnInit {
+    
     /* ***********************************************************
     * Use the @ViewChild decorator to get a reference to the drawer component.
     * It is used in the "onDrawerButtonTap" function below to manipulate the drawer.

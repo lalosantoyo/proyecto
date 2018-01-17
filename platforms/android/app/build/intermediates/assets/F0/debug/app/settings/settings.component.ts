@@ -1,6 +1,8 @@
 import { Component, OnInit, ViewChild } from "@angular/core";
 import { DrawerTransitionBase, SlideInOnTopTransition } from "nativescript-pro-ui/sidedrawer";
 import { RadSideDrawerComponent } from "nativescript-pro-ui/sidedrawer/angular";
+import { EventData } from "data/observable";
+import { Label } from "ui/label";
 
 @Component({
     selector: "Settings",
@@ -33,5 +35,22 @@ export class SettingsComponent implements OnInit {
     *************************************************************/
     onDrawerButtonTap(): void {
         this.drawerComponent.sideDrawer.showDrawer();
+    }
+    public oneway = "One way bound label";
+    public twoway = "L o r e m   i p s u m   d o l o r   s i t   a m e t , consectetur   adipiscing   elit,   sed   do eiusmod  tempor  incididunt  ut  labore et  dolore  magna  aliqua.  Ut  enim  ad m i n i m   v e n i a m ,   q u i s   n o s t r u d exercitation   ullamco   laboris   nisi   ut aliquip ex ea commodo consequat.";
+    public counter: number;
+
+    constructor() {
+        this.counter = 0;
+    }
+
+    changeLabelText() {
+        this.twoway += " L o r e m   i p s u m   d o l o r   s i t   a m e t , consectetur   adipiscing   elit,   sed   do eiusmod  tempor  incididunt  ut  labore et  dolore  magna  aliqua.  Ut  enim  ad m i n i m   v e n i a m ,   q u i s   n o s t r u d exercitation   ullamco   laboris   nisi   ut aliquip ex ea commodo consequat. ";
+        this.counter += 1;
+    }
+
+    onTextChanged(args: EventData) {
+        let label = <Label>args.object;
+        console.log("onTextChanged for " + this.counter + " times for element " + label);
     }
 }

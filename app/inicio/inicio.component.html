@@ -9,7 +9,7 @@
     <ActionItem icon="res://navigation/menu" android:visibility="collapsed" (tap)="onDrawerButtonTap()"
         ios.position="left">
     </ActionItem>
-    <Label class="action-bar-title" text="Inicio"></Label>
+    <Label class="action-bar-title" text="Promosion"></Label>
 </ActionBar>
 
 <!--
@@ -31,6 +31,16 @@ it shouldn't have any other siblings other than the <ActionBar> component.
     Use the tkMainContent directive to display the content of the page when you have an app drawer.
     -->
     <GridLayout class="page page-content" tkMainContent>
-        <Label class="page-placeholder" text="<Hola que hace-->"></Label>
+        <Label class="page-placeholder" text="<--Hola que hace-->"></Label>
+            <StackLayout> 
+            <CardView>
+                    <GridLayout class="loco" rows="0, auto, auto" columns="auto, auto, *">
+                            <label class="la" text="promociones" class="info" textWrap="true" row="1" colSpan="3" ></label>
+                        </GridLayout>
+                        <GridLayout class="loco1">
+                                <img class="img" src="res://burrito">
+                            </GridLayout>
+            </CardView>
+            </StackLayout>
     </GridLayout>
 </RadSideDrawer>

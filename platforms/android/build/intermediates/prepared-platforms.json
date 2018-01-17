@@ -7,6 +7,7 @@
     "@angular/http": true,
     "@angular/platform-browser": true,
     "@angular/router": true,
+    "angular2-wizard": true,
     "nativescript-angular": true,
     "nativescript-pro-ui": true,
     "nativescript-theme-core": true,
@@ -15,6 +16,7 @@
     "tns-core-modules": true,
     "zone.js": true,
     "tslib": true,
+    "bootstrap": true,
     "nativescript-intl": true,
     "symbol-observable": true,
     "tns-core-modules-widgets": true

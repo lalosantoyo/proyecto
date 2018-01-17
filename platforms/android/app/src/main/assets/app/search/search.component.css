@@ -1,0 +1,40 @@
+.cardStyle{
+    background-color: dimgray;
+}
+.la{
+    background-color: dimgray;
+}
+.loco{
+    font-size:20px;
+    font-family:Courier;
+    border:2px;
+    border-color:blue;
+    border-style:solid;
+    
+    width:600px; 
+    height:50px;
+    background-color: #dfd7d7;
+}
+.loco1{
+    font-size:20px;
+    font-family:Courier;
+    border:2px;
+    border-color:blue;
+    border-style:solid;
+    
+    width:600px; 
+    height:100px; 
+    background-color: rgb(180, 166, 166);
+}
+.espacio{
+    font-size:20px;
+    font-family:Courier;
+    border:2px;
+    border-color:blue;
+    border-style:solid;
+    
+    width:600px; 
+    height:100px; 
+    background-color: rgb(252, 248, 248);
+
+}

@@ -1,4 +1,16 @@
+<!-- <img src="res://burrito" height="300px">
+<GridLayout   rows="*" sdkExampleTitle sdkToggleNavButton>
+     
+        
+        <StackLayout   class="page" verticalAlign="center" height="100">
+               
+            <Progress (loaded)="onProgressBarLoaded($event)"  (valueChange)="onValueChanged($event)" color="#8C489F" backgroundColor="#FFFF66" class="m-20"></Progress>
+            
+        </StackLayout>
+ 
+    </GridLayout> -->
 <StackLayout class="page">
     <img src="res://burrito" height="500px">
+    <Progress [value]="progressValue" (valueChanged)="onValueChanged($event)" maxValue="100" class="m-20"></Progress>
     <Label class="loading" text="{{loadingText}}"></Label>
 </StackLayout>

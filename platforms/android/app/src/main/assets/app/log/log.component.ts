@@ -19,6 +19,9 @@ export class LogComponent {
     goToSignUp(){
         this.router.navigate(['singup']);
     }
+    goTohome(){
+        this.router.navigate(['inicio']);
+    }
 
 
     ngOnInit(): void {

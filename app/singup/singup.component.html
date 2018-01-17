@@ -1,5 +1,5 @@
-<FlexboxLayout flexDirection="column" class="registration-form" alignItems="center">
-    
+<ScrollView>
+        <StackLayout class="p-5 form">
     <Label [text]="error"></Label>
     <img src="res://burrito" height="200px">
     <label text="Nombre(s)"></label>
@@ -8,6 +8,8 @@
     <TextField hint="Apellido Paterno" secure="true" [(ngModel)]="apellidop"></TextField>
     <label text="Apelldo Materno"></label>
     <TextField hint="Apellido Materno" secure="true" [(ngModel)]="apellidom"></TextField>
+    <label text="Fecha de nacimiento"></label>
+    <TextField hint="Fecha de nacimiento" secure="true" [(ngModel)]="date"></TextField>
     <label text="Usuario"></label>
     <TextField hint="Usuario" secure="true" [(ngModel)]="usuario"></TextField>
     <Label text="contraseña"></Label>
@@ -16,8 +18,9 @@
     <TextField hint="Telefono" secure="true" [(ngModel)]="passwordConfirmation"></TextField>
 
 
-    <Button text="Registrar" (tap)="signUp()" class="btn-primary"></Button>
+    <Button text="Registrar" (tap)="log()" class="btn-primary"></Button>
 
     <Button text="Iniciar Sesion" class="btn-flat" (tap)="goToSignUp()"></Button>
 
-</FlexboxLayout>
+</StackLayout>
+</ScrollView>
